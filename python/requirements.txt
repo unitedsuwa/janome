@@ -1,0 +1,5 @@
+PyQt5
+PyOpenGL
+PyOpenGL-accelerate
+opencv-python-headless
+pillow
